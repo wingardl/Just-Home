@@ -1,6 +1,6 @@
 # JustHome
 
-JustHome is a project that allows tenats to learn what is in their lease in a simple, straightforward format. Tenants can upload a lease and to have it analyzed for possible illegal clauses (under Massachusetts state law) and have the main points summarized and displayed in an easy to read format. Leases can be translated from English (using google translate services) and downloaded as a txt file. Connect with local housing and legal resources on our interactive map of the Greater Boston Area. 
+JustHome is a project that allows tenants to learn what is in their lease in a simple, straightforward format. Tenants can upload a lease and to have it analyzed for possible illegal clauses (under Massachusetts state law) and have the main points summarized and displayed in an easy to read format. Leases can be translated from English (using google translate services) and downloaded as a txt file. Connect with local housing and legal resources on our interactive map of the Greater Boston Area. 
 
 
 ### To demo JustHome :
